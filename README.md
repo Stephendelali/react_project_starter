@@ -4,5 +4,7 @@ A simple React starter template powered by Snowpack for blazing-fast builds and 
 Features:
 
 i.Instant dev server with fast HMR
-ii.Zero-config build with optimized output
-iii.Support for modern JavaScript (ESM)
+
+ii. Zero-config build with optimized output
+
+iii. Support for modern JavaScript (ESM)
